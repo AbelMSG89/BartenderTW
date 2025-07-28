@@ -57,7 +57,7 @@ BT2Defaults = {
 		},
 		Bar1 = {
 			Scale = 1,
-			Padding = -1,
+			Padding = 2,
 			Rows = 1,
 			Swap = false,
 			Alpha = 1,
@@ -65,7 +65,7 @@ BT2Defaults = {
 		},
 		Bar2 = {
 			Scale = 1,
-			Padding = -1,
+			Padding = 2,
 			Rows = 1,
 			Swap = false,
 			Alpha = 1,
@@ -73,7 +73,7 @@ BT2Defaults = {
 		},
 		Bar3 = {
 			Scale = 1,
-			Padding = -1,
+			Padding = 2,
 			Rows = 1,
 			Swap = false,
 			Alpha = 1,
@@ -81,7 +81,7 @@ BT2Defaults = {
 		},
 		Bar4 = {
 			Scale = 1,
-			Padding = -1,
+			Padding = 2,
 			Rows = 12,
 			Swap = true,
 			Alpha = 1,
@@ -89,7 +89,7 @@ BT2Defaults = {
 		},
 		Bar5 = {
 			Scale = 1,
-			Padding = -1,
+			Padding = 2,
 			Rows = 12,
 			Swap = true,
 			Alpha = 1,
@@ -97,28 +97,28 @@ BT2Defaults = {
 		},
 		Bar6 = {
 			Scale = 1,
-			Padding = 0,
+			Padding = 2,
 			Swap = false,
 			Alpha = 1,
 			Hide = false,
 		},
 		Bar7 = {
 			Scale = 1,
-			Padding = 0,
+			Padding = 2,
 			Swap = false,
 			Alpha = 1,
 			Hide = false,
 		},
 		Bar8 = {
 			Scale = 1,
-			Padding = 0,
+			Padding = 2,
 			Swap = false,
 			Alpha = 1,
 			Hide = false,
 		},
 		Bar9 = {
 			Scale = 1,
-			Padding = -4,
+			Padding = 2,
 			Swap = false,
 			Alpha = 1,
 			Hide = false,
